@@ -23,6 +23,16 @@ nav li button{
     margin-top: 150px;
 
 }
+.signbutton{
+    background-color: #4885ed;
+    color: #fff;
+    border:none;
+    border-radius:3px;
+    padding:7px 10px;
+    position:relative;
+    bottom:7px;
+    font-weight:bold;
+  }
 .bar{
     margin-top: 20px;
     margin:0 auto;
