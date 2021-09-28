@@ -73,8 +73,9 @@ nav li button{
     justify-content: center;
 }
 .bas{
- background-color: grey;   
- margin-top: 18%;
+
+ background-color: #dadce0;  
+ margin-top: 20%;
  height: 80px;
 
 }
@@ -87,7 +88,6 @@ nav li button{
 .country  p{
    margin-bottom: 15px;
 }
-
 footer{
     display: flex;
 }
