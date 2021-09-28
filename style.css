@@ -9,7 +9,7 @@ nav li button{
     border: none;
     background-color: white;
 }
-nav li button:hover{
+ li:hover{
     text-decoration: underline;
 }
 .input-logo{
@@ -37,10 +37,36 @@ nav li button:hover{
         font-size:16px;
         outline: none;
 }
-
+.voice{
+    height:20px;
+    position:relative;
+    top:5px;
+    left:550px;
+}
+.loupe{
+    height:20px;
+    position:relative;
+    top:5px;
+    left:20px;
+}
 .btn{
-
-    margin-top: 100px;
+    margin-top:30px;
+  }
+.btns{
+    background-color: #f5f5f5;
+    border:none;
+    color:#707070;
+    font-size:15px;
+    padding: 10px 20px;
+    margin:5px;
+    border-radius:4px;
+    outline:none;
+}
+.langage a{
+    text-decoration: none;
+}
+.langage a:hover{
+    text-decoration: underline;
 }
 .fonctionRecherche{
     display: flex;
@@ -69,4 +95,7 @@ footer li{
     display: inline-block;
     padding: 30px;
     margin-left: 35px;
+}
+footer li a{
+    text-decoration: none;
 }
