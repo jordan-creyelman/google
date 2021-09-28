@@ -1,0 +1,72 @@
+nav{
+    display: flex;
+    flex-direction: row-reverse;
+}
+nav li {
+    display: inline-block;   
+}
+nav li button{
+    border: none;
+    background-color: white;
+}
+nav li button:hover{
+    text-decoration: underline;
+}
+.input-logo{
+    background-image: "img/menu.svg";
+}
+ .google, .search, .btn,.google ,.langage{
+    display: flex;
+    justify-content: center;
+}
+.google{
+    margin-top: 150px;
+
+}
+.bar{
+    margin-top: 20px;
+    margin:0 auto;
+    width:575px;
+    border-radius:30px;
+    border:1px solid #dcdcdc;
+}
+.search-bar{
+        height:45px;
+        border: none;
+        width:500px;
+        font-size:16px;
+        outline: none;
+}
+
+.btn{
+
+    margin-top: 100px;
+}
+.fonctionRecherche{
+    display: flex;
+    justify-content: center;
+}
+.bas{
+ background-color: grey;   
+ margin-top: 18%;
+ height: 80px;
+
+}
+.country {
+    margin-top: 5px;
+    width: 100%;   
+    height: 1%;
+    padding: 5px;
+}
+.country  p{
+   margin-bottom: 15px;
+}
+
+footer{
+    display: flex;
+}
+footer li{
+    display: inline-block;
+    padding: 30px;
+    margin-left: 35px;
+}
