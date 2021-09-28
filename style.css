@@ -47,7 +47,7 @@ nav li button{
     height:20px;
     position:relative;
     top:5px;
-    left:20px;
+    left:0px;
 }
 .btn{
     margin-top:30px;
@@ -73,11 +73,9 @@ nav li button{
     justify-content: center;
 }
 .bas{
-
  background-color: #dadce0;  
  margin-top: 20%;
  height: 80px;
-
 }
 .country {
     margin-top: 5px;
@@ -98,6 +96,5 @@ footer li{
 }
 footer li a{
     text-decoration: none;
-    color:black;
-       
+    color:black;       
 }
